@@ -41,7 +41,7 @@
 对于熟悉 Scoop 的用户：
 
 ```powershell
-scoop bucket add scoopet https://github.com/integzz/scoopet
+scoop bucket add luomingyang https://github.com/luoluoluo22/scoop_luo.git
 ```
 
 # :running: 开始
@@ -156,55 +156,3 @@ scoop config aria2-min-split-size 4M
 |          App          | 自动更新 | 原创                                                             |
 | :-------------------: | :------: | ---------------------------------------------------------------- |
 |    CopyTranslator     |    √     | √                                                                |
-|   GeoGebra-Portable   |    √     | √                                                                |
-|         Gephi         |    √     | √                                                                |
-|       Grammarly       |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|       Julia-cn        |    √     | √                                                                |
-|       KingDraw        |    √     | √                                                                |
-|        LogSeq         |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
-|        LyX-cn         |    √     | √                                                                |
-| Mathpix Snipping Tool |    √     | √                                                                |
-|   Mendeley Desktop    |    √     | √                                                                |
-|     Miniconda-cn      |    √     | √                                                                |
-|        NetLogo        |    √     | √                                                                |
-|      SageMath-cn      |    √     | √                                                                |
-|        TinyTeX        |    √     | 拷贝自 [r-bucket](https://github.com/cderv/r-bucket)             |
-|       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-|         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-
-### 开发辅助
-
-|          App           | 自动更新 | 原创                                                             |
-| :--------------------: | :------: | ---------------------------------------------------------------- |
-|       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
-|    scoop-completion    |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|      傲梅分区助手      |    √     | √                                                                |
-
-### 日常办公
-
-|        App        | 自动更新 | 原创                                                    |
-| :---------------: | :------: | ------------------------------------------------------- |
-|  File Converter   |    √     | √                                                       |
-|   OBS Studio-cn   |    √     | √                                                       |
-| Office Tool Plus  |    √     | √                                                       |
-|     RustDesk      |    √     | √                                                       |
-|   Wise Care 365   |    √     | √                                                       |
-| Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|     百度网盘      |    √     | √                                                       |
-|     腾讯会议      |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)       |
-
-### 社交休闲
-
-|     App      | 自动更新 | 原创                                                 |
-| :----------: | :------: | ---------------------------------------------------- |
-|     钉钉     |    √     | √                                                    |
-| 洛雪音乐助手 |    √     | √                                                    |
-|  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|     微信     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|   magnetW    |    √     | √                                                    |
-|   You-Get    |    √     | √                                                    |
