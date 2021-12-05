@@ -33,7 +33,6 @@
             >的脚本仓库：持续助力科研
         </p>
         <p align="left">
-            <a href="README.md">English</a> |
             <a href="README_CN.md">简体中文</a>
         </p>
     </div>
